@@ -2,9 +2,9 @@
 
 Hi, I'm Thomas.
 
-I'm the founder of PromptingEasy.com, where I create multilingual resources to help people write better AI prompts.
+Founder of PromptingEasy.com. Building multilingual AI prompting resources and fast, static-first websites.
 
-I also enjoy building fast, lightweight websites with a strong focus on simplicity, long-term maintainability and Core Web Vitals.
+I also focus on building fast, lightweight websites with a strong emphasis on simplicity, long-term maintainability and Core Web Vitals.
 
 ## What I work on
 
