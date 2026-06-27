@@ -18,4 +18,4 @@ I also focus on building fast, lightweight websites with a strong emphasis on si
 
 🌐 https://promptingeasy.com
 
-PromptingEasy provides AI prompting guides, tutorials and practical examples in multiple languages.
+PromptingEasy.com provides AI prompting tutorials, free prompt generators and practical use cases in multiple languages, helping people understand and use AI prompts more clearly, effectively and confidently.
